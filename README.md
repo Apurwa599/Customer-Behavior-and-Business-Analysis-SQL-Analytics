@@ -6,7 +6,7 @@
   
 ### Problem discription
 - Modern businesses generate large volumes of structured data across multiple systems.
-- t is Extracting meaningful insights from complex relational databases Understanding customer purchasing behavior ,Evaluating sales, profit, and loss trends,
+- T is Extracting meaningful insights from complex relational databases Understanding customer purchasing behavior ,Evaluating sales, profit, and loss trends,
   Supporting data-driven business decisions.
 - The dataset consists of multiple interconnected tables such as customers, orders, products, and payments, requiring efficient joins and optimized queries.
  
@@ -17,8 +17,6 @@ The database includes several related tables:
 - Products & Categories
 - Payments
 - Suppliers & Shippers
-
-Understanding relationships between these tables (Primary Keys & Foreign Keys) is essential for accurate analysis.
 
 ### Data Analysis (SQL)
 A wide range of SQL queries were implemented such as Data extraction and filtering, Multi-table joins, Aggregations (SUM, COUNT, AVG), Window functions, Performance optimization.
